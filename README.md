@@ -1,3 +1,10 @@
+<p align="left">
+    <img src="http://isddteach.sdv.univ-paris-diderot.fr/static/images/banniere_isddnew_fev2019.png" width="300">
+</p>
+
+<p align="right">
+    <img src="https://www.mdanalysis.org/PathSimAnalysis/_static/logo/mda_logo.png" width="150">
+</p>
 # MDAnalysis Tutorial: A Guide to Molecular Dynamics Data Analysis
 
 This repository provides an in-depth tutorial on using **MDAnalysis**, a Python library for analyzing molecular dynamics (MD) simulations. It covers the fundamental components and operations in MDAnalysis, making it ideal for beginners and intermediates looking to understand the library's capabilities and practical applications in MD data analysis.
