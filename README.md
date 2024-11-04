@@ -1,5 +1,5 @@
-<p align="left">
-    <img src="https://www.mdanalysis.org/public/mdanalysis-logo_square.png" width="500">
+<p align="center">
+    <img src="https://www.mdanalysis.org/public/mdanalysis-logo_square.png" width="300" height="200">
 </p>
 
 # MDAnalysis Tutorial: A Guide to Molecular Dynamics Data Analysis
